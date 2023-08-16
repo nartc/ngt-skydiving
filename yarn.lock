@@ -2263,24 +2263,24 @@ ajv@^6.12.5:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
-angular-three-postprocessing@2.0.0-beta.11:
-  version "2.0.0-beta.11"
-  resolved "https://registry.yarnpkg.com/angular-three-postprocessing/-/angular-three-postprocessing-2.0.0-beta.11.tgz#9b9ab86fd2bf836aa05ac0e9b8747ee335e0e309"
-  integrity sha512-NsVhp+hIEICbAJK5oDWx1U3TfYr+aoV5g2Kj4QaGBX33w9/R7iWUCZOoLdgXz34a+FQdtlHU54KEY9m4rSKdcQ==
+angular-three-postprocessing@2.0.0-beta.15:
+  version "2.0.0-beta.15"
+  resolved "https://registry.yarnpkg.com/angular-three-postprocessing/-/angular-three-postprocessing-2.0.0-beta.15.tgz#2f66ecfdd9c027a2c4ba60a0071c2c9d92633ec0"
+  integrity sha512-bBeVjCU/1VnP27qe0jVkI4J4LXeys36kGxZEUWMcA/yJk9pnlujjcMTW3nsfOOycfvEvkvGOy9jprJh/6rl/BA==
   dependencies:
     tslib "^2.3.0"
 
-angular-three-soba@2.0.0-beta.11:
-  version "2.0.0-beta.11"
-  resolved "https://registry.yarnpkg.com/angular-three-soba/-/angular-three-soba-2.0.0-beta.11.tgz#87a16727a9246df24843c9c6450322290f5cb1b1"
-  integrity sha512-abP4PcEtMla1LcgHBATYorjV6vcJmV1o9+mGz7RUUp9qsDbhNO2YZKt0duQ9jIwUFzgVNiIBYszD5D9eHosH3Q==
+angular-three-soba@2.0.0-beta.15:
+  version "2.0.0-beta.15"
+  resolved "https://registry.yarnpkg.com/angular-three-soba/-/angular-three-soba-2.0.0-beta.15.tgz#0be1e05d0808a274b91dd201c9ec33c39ca2780c"
+  integrity sha512-aJa4Sbu+KmrXUFqzpMfmXMeDIHrWsU05oWyjEnE7gz9MWH23nYDJGQUFFibTY1OqoiRJDURhUnrd/27vsMeAPQ==
   dependencies:
     tslib "^2.3.0"
 
-angular-three@2.0.0-beta.11:
-  version "2.0.0-beta.11"
-  resolved "https://registry.yarnpkg.com/angular-three/-/angular-three-2.0.0-beta.11.tgz#d2c67d444fb3b789918cfeb90a621d32e882bec8"
-  integrity sha512-24+l5INXDtdvUmPdtptKrMzQKgST80Zc16pPap/pcGhQ5Sgh4o2a4OC/yEWItNax7tX+5CIB6IMTb3LFwr/fZQ==
+angular-three@2.0.0-beta.15:
+  version "2.0.0-beta.15"
+  resolved "https://registry.yarnpkg.com/angular-three/-/angular-three-2.0.0-beta.15.tgz#83be4ab4552d36bbf6e90bc253c2b0a90aed4faf"
+  integrity sha512-sD4QC7q2xRlKm+Hekh1f8AMwLAePqm1H5FQFTsbMtxXCnz3wY9J525ecR1vYJhdg9LTp+csjyIAJjvgrInUa8g==
   dependencies:
     "@nx/devkit" "^16.0.0"
     ngx-resize "^2.0.0"
